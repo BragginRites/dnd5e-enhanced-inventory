@@ -9,9 +9,14 @@ D&D5e Enhanced Inventory is a module for Foundry VTT that adds "to hit" and "dam
 
 ## Installation
 
-1. Download the latest release from the [releases page](https://github.com/BragginRites/dnd5e-enhanced-inventory/releases).
-2. Extract the contents of the zip file into your Foundry VTT `modules` directory.
-3. Enable the module in your Foundry VTT game settings.
+1. Open Foundry VTT and navigate to the **Add-on Modules** tab in the **Configuration and Setup** menu.
+2. Click on **Install Module**.
+3. In the **Manifest URL** field, paste the following URL:
+   ```
+   https://raw.githubusercontent.com/BragginRites/dnd5e-enhanced-inventory/main/module.json
+   ```
+4. Click **Install** to add the module to your Foundry VTT instance.
+5. Enable the module in your game settings.
 
 ## Usage
 
