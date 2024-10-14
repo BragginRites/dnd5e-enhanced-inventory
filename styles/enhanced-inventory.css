@@ -1,0 +1,12 @@
+.enhanced-inventory-data {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.8em;
+  color: #7a7971;
+  margin-top: 4px;
+}
+
+.enhanced-inventory-data .to-hit,
+.enhanced-inventory-data .damage {
+  flex: 1;
+}
